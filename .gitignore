@@ -2,6 +2,8 @@
 .classpath
 .project
 .settings/
+*.cmd
+*.md
 
 # Intellij
 .idea/
@@ -12,5 +14,7 @@
 .DS_Store
 
 # Maven
+mvnw
+.mvn/
 log/
 target/
